@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -laR | grep total | wc -l | tr -d ' '
