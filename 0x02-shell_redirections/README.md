@@ -11,4 +11,6 @@
 		* The same goes for the /etc/hosts.
 	-file: 4-lastlines - A shell script that prints the last 10 lines of the file /etc/passwd.
 	-file: 5-firstlines - A shell script that prints the last 10 lines of the file /etc/passwd.
-	-file: 6-third_line - A shell script that prints the 3rd line of a file called iacta. 
+	-file: 6-third_line - A shell script that prints the 3rd line of a file called iacta.
+	-file:
+	-file: 8-cwd_state - A shell script that save the out put of the command "ls -la" to a file called ls_cwd_content.
