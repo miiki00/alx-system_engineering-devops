@@ -2,7 +2,8 @@
 # 4-to_infinity_and_beyond: print the string 'To infinity and beyond'
 # infinitly.
 
-while [ 0 -eq 0 ]; do
+zero=0
+while [ $zero -eq 0 ]; do
 	echo "To infinity and beyond"
 	sleep 2
 done
